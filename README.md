@@ -83,83 +83,6 @@ mern-bookstore
 │   ├── server.js
 │
 └── README.md
-```
-
----
-
-# ⚙️ Installation & Setup
-
-## 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/mern-bookstore.git
-cd mern-bookstore
-```
-
-## 2. Install Backend Dependencies
-
-```bash
-cd backend
-npm install
-```
-
-## 3. Install Frontend Dependencies
-
-```bash
-cd frontend
-npm install
-```
-
-## 4. Setup Environment Variables
-
-Create a `.env` file inside the **backend** folder.
-
-Example:
-
-```
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-```
-
----
-
-## 5. Run the Application
-
-### Start Backend
-
-```bash
-cd backend
-npm start
-```
-
-### Start Frontend
-
-```bash
-cd frontend
-npm start
-```
-
-The application will run at:
-
-```
-Frontend: http://localhost:3000
-Backend: http://localhost:5000
-```
-
----
-
-# 📸 Screenshots
-
-You can add screenshots of your application here.
-
-Example:
-
-```
-![Homepage](screenshots/home.png)
-![Login Page](screenshots/login.png)
-```
-
 ---
 
 # 🌟 Future Improvements
@@ -172,14 +95,6 @@ Example:
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Submit a Pull Request
 
 ---
 
