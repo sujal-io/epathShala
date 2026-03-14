@@ -96,8 +96,6 @@ mern-bookstore
 ---
 
 
----
-
 # 👨‍💻 Author
 
 **Sujal Bhardwaj**
