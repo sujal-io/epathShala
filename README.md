@@ -95,10 +95,3 @@ mern-bookstore
 
 ---
 
-
-# 👨‍💻 Author
-
-**Sujal Bhardwaj**
-
-GitHub: https://github.com/sujal-io
-
