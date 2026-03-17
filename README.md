@@ -60,29 +60,7 @@ The project focuses on providing a **modern user experience** with dynamic UI co
 
 ## Authentication & Security
 - bcrypt.js
-
----
-
-# 📂 Project Structure
-
-```
-mern-bookstore
-│
-├── frontend
-│   ├── src
-│   │   ├── components
-│   │   ├── pages
-│   │   ├── context
-│   │   ├── App.js
-│   │   └── index.js
-│
-├── backend
-│   ├── models
-│   ├── routes
-│   ├── controllers
-│   ├── server.js
-│
-└── README.md
+  
 ---
 
 # 🌟 Future Improvements
